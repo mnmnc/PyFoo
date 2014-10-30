@@ -1,4 +1,4 @@
-
+#
 def open_file(filename, mode):
 	# 'r'       open for reading (default)
     # 'w'       open for writing, truncating the file first
