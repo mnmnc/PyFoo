@@ -30,4 +30,3 @@ def open_binary(filename):
 def open_text(filename):
 	return open(filename, 'b')
 
-def
